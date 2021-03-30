@@ -7,12 +7,13 @@
 ## Stats
 
 <table>
-
+  
+<!--
 <tr>
 <th>Github Stats</th>
 <th>Top Languages</th>
-<th>Visitors</th>
 </tr>
+-->
 
 <tr>
 <td valign="center">
@@ -25,12 +26,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobogalaxy&layout=compact&theme=radical)
 
 </td>
+  
+</tr>
+<tr>
 
-<td valign="center"> 
+<td halign="center">
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hobogalaxy.hobogalaxy)
+  
+</td>
 
-</td>  
 </tr>
 </table>
 
