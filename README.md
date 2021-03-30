@@ -8,7 +8,7 @@
   
 [![hobogalaxy stats](https://github-readme-stats.vercel.app/api?username=hobogalaxy&theme=radical&count_private=true&show_icons=true&include_all_commits=true&)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobogalaxy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobogalaxy&layout=compact&theme=radical&langs_count=5&hide=jupyter%20notebook)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hobogalaxy.hobogalaxy)
 
