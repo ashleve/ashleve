@@ -1,4 +1,4 @@
-## Hi there, I'm Luke :octocat:
+### Hi there, I'm Luke :octocat:
 - :sparkles: I like doing curiosity driven research.
 - 🌱 Currently learning: Geometric Deep Learning, Deep Reinforcement Learning.
 - 💬 Feel free to make issues on my repos about anything! I'm happy to help.
