@@ -12,9 +12,14 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hobogalaxy.hobogalaxy)
 
+<!--
 ## Projects
+-->
 
+<!--
 [![lightning-hydra-template](https://github-readme-stats.vercel.app/api/pin/?username=hobogalaxy&repo=lightning-hydra-template&theme=radical)](https://github.com/hobogalaxy/lightning-hydra-template)
+-->
+
 
 <!--
 [![ActiveRagdoll](https://github-readme-stats.vercel.app/api/pin/?username=hobogalaxy&repo=ActiveRagdoll&theme=radical)](https://github.com/hobogalaxy/ActiveRagdoll)
