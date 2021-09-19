@@ -29,3 +29,9 @@
 -->
 
 <!-- aaa -->
+
+
+My current interests:
+- Graph Representation Learning
+- Neuroscience inspired AI approaches
+- Reinforcement Learning
