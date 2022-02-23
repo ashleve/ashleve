@@ -5,12 +5,12 @@
 
 
 ## Stats -->
-<div align="center">
+<!-- <div align="center"> -->
 
   
 [![ashleve stats](https://github-readme-stats.vercel.app/api?username=ashleve&theme=radical&count_private=true&show_icons=true&include_all_commits=true&custom_title=ashleve's%20%GitHub%20%Stats)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
+<!-- </div> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobogalaxy&layout=compact&theme=radical&langs_count=5&hide=jupyter%20notebook)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hobogalaxy.hobogalaxy) -->
@@ -32,6 +32,7 @@
 
 
 My current interests:
-- Graph Representation Learning
-- Neuroscience inspired AI approaches
+- Computational Neuroscience
+- Graph Representations and GNNs
 - Reinforcement Learning
+- Simulations and Virtual Worlds
