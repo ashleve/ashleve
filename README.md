@@ -32,7 +32,6 @@
 
 
 My current interests:
-- Computational Neuroscience
 - Graph Representations and GNNs
+- Computational Neuroscience
 - Reinforcement Learning
-- Simulations and Virtual Worlds
