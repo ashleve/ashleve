@@ -29,9 +29,3 @@
 -->
 
 <!-- aaa -->
-
-
-My current interests:
-- Graph Representations and GNNs
-- Computational Neuroscience
-- Reinforcement Learning
