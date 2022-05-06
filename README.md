@@ -8,7 +8,7 @@
 <!-- <div align="center"> -->
 
   
-[![ashleve stats](https://github-readme-stats.vercel.app/api?username=ashleve&theme=radical&count_private=true&show_icons=true&include_all_commits=true&custom_title=ashleve's%20%GitHub%20%Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ashleve stats](https://github-readme-stats.vercel.app/api?username=ashleve&theme=radical&count_private=true&include_all_commits=true&show_icons=true&include_all_commits=true&custom_title=ashleve's%20%GitHub%20%Stats)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- </div> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobogalaxy&layout=compact&theme=radical&langs_count=5&hide=jupyter%20notebook)
