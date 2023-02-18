@@ -21,6 +21,7 @@ https://github.com/ashleve/graph_classification - Training GNNs with PyTorch Lig
 https://github.com/ashleve/deep_reinforcement_learning - Clean, single file, minimalistic and easy to read implementations of Deep Reinforcement Learning
 algorithms. <br>
 https://github.com/ashleve/ISA - Designing arcade autonomous vehicle RL agents in Unity. <br>
+https://github.com/kinoai/gpt3_hackaton - Enhancing Digital Gardens with GPT-3 (generating and exploring knowledge graphs from sets of documents). <br>
 
 
 **Simulation-related projects:**
