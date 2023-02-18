@@ -21,7 +21,6 @@ https://github.com/ashleve/pyrootutils - A simple python package to solve all yo
 https://github.com/ashleve/autoroot - An experimental package for python project root setup with just one import. <br>
 https://github.com/ashleve/graph_classification - Training GNNs with PyTorch Lightning: Open Graph Benchmarks and image classification from superpixels. <br>
 https://github.com/ashleve/deep_reinforcement_learning - Clean, single file, minimalistic and easy to read implementations of Deep Reinforcement Learning algorithms. <br>
-https://github.com/ashleve/youtube_multi_video_comment_downloader - A python script to download comments from many videos using youtube v3 API. <br>
 
 **Simulation-related projects:**
 
