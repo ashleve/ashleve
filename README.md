@@ -15,8 +15,8 @@ https://github.com/Lightning-AI/lightning/pull/6419 <br>
 
 **Deep learning related projects:** <br>
 [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - A very user-friendly pytorch template for rapid and reproducible ML experimentation. <br>
-[ashleve/graph_classification](https://github.com/ashleve/graph_classification) - Training GNNs with PyTorch Lightning: Open Graph Benchmarks and image classification from superpixels. <br>
-[kinoai/gpt3_hackaton](https://github.com/kinoai/gpt3_hackaton) - Enhancing Digital Gardens with GPT-3 (generating and exploring knowledge graphs from sets of documents). <br>
+[ashleve/graph_classification](https://github.com/ashleve/graph_classification) - Training GNNs with Lightning: Open Graph Benchmarks and image classification from superpixels. <br>
+[kinoai/gpt3_hackaton](https://github.com/kinoai/gpt3_hackaton) - Enhancing Digital Gardens with GPT-3 (exploring knowledge graphs from sets of documents). <br>
 [ashleve/ISA](https://github.com/ashleve/ISA) - Designing arcade autonomous vehicle RL agents in Unity. <br>
 
 **Simulation related projects:** <br>
