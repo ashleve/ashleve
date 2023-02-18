@@ -21,7 +21,7 @@ https://github.com/Lightning-AI/lightning/pull/6419 <br>
 
 **Simulation related projects:** <br>
 [ashleve/ActiveRagdoll](https://github.com/ashleve/ActiveRagdoll) - From-scratch implementation of physically simulated character animation with PID. <br>
-[ashleve/sim2real_object_recognition](https://github.com/ashleve/sim2real_object_recognition) - Synthetic dataset generation for object detection, achieved trough photogrammetry and simulation. <br>
+[ashleve/sim2real_object_recognition](https://github.com/ashleve/sim2real_object_recognition) - Synthetic data generation for object detection with photogrammetry and simulation. <br>
 [ashleve/AI-creatures](https://github.com/ashleve/AI-creatures) - Evolving movement of 3D creatures using Unity and genetic algorithm. <br>
 [ashleve/evolution](https://github.com/ashleve/EvOLuTIoN) - A simple simulation which uses genetic algorithm to optimise forces applied to cubes. <br>
 [ashleve/boids](https://github.com/ashleve/boids) - Simulating swarm behaviour of animals like birds and fish, with Python and openGL. <br>
