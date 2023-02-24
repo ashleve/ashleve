@@ -6,7 +6,7 @@
 - 💬 Feel free to make issues on my repos about anything! I'm happy to help.
  -->
 
-Recent open-source contributions: <br>
+Recent contributions: <br>
 https://github.com/Lightning-AI/lightning/pull/13069 <br>
 https://github.com/Lightning-AI/lightning/pull/6667 <br>
 https://github.com/Lightning-AI/lightning/pull/6419 <br>
