@@ -6,11 +6,13 @@
 - 💬 Feel free to make issues on my repos about anything! I'm happy to help.
  -->
 
+<!-- 
 Recent contributions: <br>
 https://github.com/Lightning-AI/lightning/pull/13069 <br>
 https://github.com/Lightning-AI/lightning/pull/6667 <br>
 https://github.com/Lightning-AI/lightning/pull/6419 <br>
-
+-->
+ 
 <!-- 
 **Deep learning related projects:** <br>
 [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - A very user-friendly pytorch template for rapid and reproducible ML experimentation. <br>
