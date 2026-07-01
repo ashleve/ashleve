@@ -33,7 +33,7 @@ https://github.com/Lightning-AI/lightning/pull/6419 <br>
  -->
 <br>
 
-[![ashleve stats](https://github-readme-stats.vercel.app/api?username=ashleve&theme=radical&count_private=true&include_all_commits=true&show_icons=true&include_all_commits=true&custom_title=ashleve's%20%GitHub%20%Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=ashleve)](https://github.com/stats-organization/github-stats-extended)
   
 <!-- 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hobogalaxy.hobogalaxy) 
