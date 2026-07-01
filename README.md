@@ -1,17 +1,5 @@
 ## Hi, I'm Lukas :octocat:
 :sparkles: I like doing open-source and curiosity-driven research.
-
-<!-- 
-- 🌱 Currently learning: Geometric Deep Learning, Deep Reinforcement Learning.
-- 💬 Feel free to make issues on my repos about anything! I'm happy to help.
- -->
-
-<!-- 
-Recent contributions: <br>
-https://github.com/Lightning-AI/lightning/pull/13069 <br>
-https://github.com/Lightning-AI/lightning/pull/6667 <br>
-https://github.com/Lightning-AI/lightning/pull/6419 <br>
--->
  
 <!-- 
 **Deep learning related projects:** <br>
@@ -33,8 +21,5 @@ https://github.com/Lightning-AI/lightning/pull/6419 <br>
  -->
 <br>
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=ashleve)](https://github.com/stats-organization/github-stats-extended)
-  
-<!-- 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hobogalaxy.hobogalaxy) 
--->
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=ashleve&show=discussions_started,discussions_answered,prs_merged,prs_commented,issues_authored,issues_commented)](https://github.com/stats-organization/github-stats-extended)
+ 
